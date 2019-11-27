@@ -7,8 +7,6 @@ namespace PostgresAppConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
-            //test ffddgdg
         }
     }
 }
